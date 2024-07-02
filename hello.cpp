@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-  cout << "=========== PROGRAM OUTPUT ===========" << endl;
+  cout << "=========== PROGRAM ASDASDASDASDASD ===========" << endl;
   cout << "Daffa Maulana Ramadhan\n";
   cout << "C030323001\n";
   cout << "TI-2B\n";
